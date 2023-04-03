@@ -2,15 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>contactEmailRot13</key>
-	<string>zz-ohaqyrf@sereba.pbz</string>
 	<key>contactName</key>
-	<string>Benny Kjær Nielsen</string>
+	<string>Holger Just</string>
 	<key>description</key>
-	<string>Integration with the Trac issue tracker.</string>
+	<string>Integration with the Redmine issue tracker.</string>
 	<key>name</key>
-	<string>Trac</string>
+	<string>Redmine</string>
 	<key>uuid</key>
-	<string>CE1213B9-61D5-4F8E-BE93-7B2F2372915E</string>
+	<string>5F9592C3-224A-4B4E-BF20-9119473AEB65</string>
 </dict>
 </plist>

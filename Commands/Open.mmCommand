@@ -2,8 +2,8 @@
 	name          = 'Open in Browser';
 	input         = 'canonical';
 	keyEquivalent = "^o";
-	environment   = "MM_TRAC_URL=${x-trac-ticket-url}\n";
-	conditions    = "x-trac-ticket-url exists";
-	uuid          = 'B785E59F-CD58-4987-B8B2-A2DA5AC424FD';
-	command       = '#!/bin/bash\nopen "${MM_TRAC_URL}"\n';
+	environment   = "MM_REDMINE_URL=${x-redmine-url}\n";
+	conditions    = "x-redmine-url exists";
+	uuid          = 'C6D8DF19-7326-4B27-AEB5-3FD41E266F0B';
+	command       = '#!/bin/bash\nopen "${MM_REDMINE_URL}"\n';
 }
